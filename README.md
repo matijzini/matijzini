@@ -6,12 +6,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Bienvenido+a+mi+perfil+de+GitHub!;Soy+Analista+de+Sistemas;Soy+Desarrollador+de+Software" /></a>
 </p>
 
+
   <a href="https://www.linkedin.com/in/matias-javier-zini-067964251/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
   <a href="mailto:matiasjavierzini@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>  
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-matiasjavierzini@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a> 
 
 - 👋 Hola, soy Matias Zini!
 - 💼 Soy Analista de Sistemas y Desarrollador de Software!
