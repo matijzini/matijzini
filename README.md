@@ -48,7 +48,7 @@
   <summary><b>⚡ Actividad Reciente en GitHub</b></summary>
   <br/>
   <a href="https://github.com/matijzini">
-    <img alt="Gráfico de actividad de Matias Zini" src="https://activity-graph.herokuapp.com/graph?username=matijzini&custom_title=Gráfico%20de%20contribuciones%20de%20Matias%20Zini&theme=react-dark" />
+    <img alt="Gráfico de actividad de Matias Zini" src="https://github-readme-activity-graph.vercel.app/graph?username=matijzini&custom_title=Actividad%20de%20Matias%20Zini&theme=react-dark" />
   </a>
   <br/>
 </details>
