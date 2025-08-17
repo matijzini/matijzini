@@ -63,6 +63,7 @@
 <br/>
 
 ## Popular Projects 
+- [SetStock Portable by Zini Matias](https://github.com/matijzini/SetStock-Portable-by-Zini-Matias)
 <!--<a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 <!--  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=MDX-Food-Safety-Hackathon&theme=onedark" />
